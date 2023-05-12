@@ -88,8 +88,21 @@ reliable and can handle a large volume of transactions and operations.
 ![3](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/4f0b3c0e-6c80-47bb-9895-d39829a3b13f)
 
 
-** SOME SCREENSHOTS OF THE PROJECT--->**
- 
+**SOME SCREENSHOTS OF THE PROJECT--->**
+
+![2](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/5b9fbf87-4f4b-4971-9dc8-c7740bedbeb7)
+![5](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/18ff3bc3-f25f-4543-ad8d-5b035964b133)
+![7](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/e1ae6cd9-3c75-463d-83ad-0ab8a61b89c8)
+![10](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/4951ba0b-ae25-41ea-bf87-c3e8fb70a515)
+
+
+
+
+
+
+
+
+
  
 
 
