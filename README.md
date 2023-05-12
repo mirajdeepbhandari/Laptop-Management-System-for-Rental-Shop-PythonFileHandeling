@@ -1,5 +1,7 @@
 # Laptop Management System for Rental Shop (Buying ,Selling, Generating Invoices and Updating Stock of Laptops) File Handling Project In Python
 
+**(SCREENSHOT OF THE PROJECT IS GIVEN DOWN YOU CAN REVIEW IT DIRECTLY (SCROLL DOWN)**
+
 The project aims to develop a program that will assist a laptop rental shop in managing
 its inventory and transactions. The program will enable the shop to read a text file
 containing information about available laptops and update the file according to the
