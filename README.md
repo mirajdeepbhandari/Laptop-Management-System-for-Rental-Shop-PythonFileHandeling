@@ -68,18 +68,26 @@ reliable and can handle a large volume of transactions and operations.
 
 **HOW TO DOWNLOAD AND OPEN THE PROJECT----->**
 
+
+
 **1. DOWNLAOD THE ZIP FILE (22067814 Miraj Deep Bhandari.zip) EXTRACT IT**
 
 ![Screenshot 2023-05-12 183943](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/e0ad33fa-37ef-41cc-8793-655852288991)
+
+
 
 
 **2. GO INSIDE THE FOLDER AFTER EXTRACT AND OPEN DEVELOPMENT FOLDER WITH YOUR CODE EDITOR**
 
 ![bandicam 2023-05-12 18-43-35-606](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/de450983-73b0-43af-b062-61f9a4f880fc)
 
+
+
 **3. OPEN THE MAIN.PY AND RUN IT**
 
 ![3](https://github.com/mirajdeepbhandari/laptop_filehandle/assets/40092465/4f0b3c0e-6c80-47bb-9895-d39829a3b13f)
+
+
 
 
 
