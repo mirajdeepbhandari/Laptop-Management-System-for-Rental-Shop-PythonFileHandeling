@@ -31,6 +31,8 @@ decision-making. The ease of use of the program will be helpful for the shop's
 employees and will minimize errors. Overall, the program will make it easier for the
 laptop rental shop to manage its business and provide quality service to its customers.
 
+**(for more info about project please go through report given there with codes)**
+
 **GOALS AND OBJECTIVES**
 
 **Goals:**
