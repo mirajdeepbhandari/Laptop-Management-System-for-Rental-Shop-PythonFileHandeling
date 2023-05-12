@@ -31,7 +31,7 @@ laptop rental shop to manage its business and provide quality service to its cus
 GOALS AND OBJECTIVES
 Goals:
 • To develop a program that will help the laptop rental shop manage its inventory
-and transactions efficiently\n.
+and transactions efficiently.
 • To enable the program to read a text file containing information about available
 laptops and update it in real-time.
 • To create a user-friendly program that can handle different types of transactions,
