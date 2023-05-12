@@ -48,6 +48,7 @@ the necessary details.
 • To enable the program to update the inventory text file automatically after every
 transaction, reflecting the current stock of each laptop.
 
+
 **Objectives:**
 
 • Develop a feature that can read and process the data in the text file, ensuring
@@ -64,3 +65,6 @@ order made in text file.
 
 • Ensure that the program is thoroughly tested and debugged to ensure that it is
 reliable and can handle a large volume of transactions and operations.
+
+HOW TO DOWNLOAD AND OPEN THE PROJECT----->
+1)EXTRACT THE ZIP FILE
