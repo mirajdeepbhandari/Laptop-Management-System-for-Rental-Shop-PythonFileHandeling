@@ -7,6 +7,7 @@ transactions that occur. The transactions include ordering laptops from manufact
 and selling laptops to customers. The program will also generate notes or invoices for
 each transaction, including details such as the name of the laptop, brand,
 customer/distributor, date and time of purchase, and total cost.
+
 The program will have the ability to update the inventory text file with real-time
 information, reflecting the current stock of each laptop. It will also be able to handle
 different types of transactions, generating appropriate notes or invoices for each one.
@@ -31,6 +32,7 @@ laptop rental shop to manage its business and provide quality service to its cus
 GOALS AND OBJECTIVES
 
 Goals:
+
 • To develop a program that will help the laptop rental shop manage its inventory
 and transactions efficiently.
 
@@ -47,13 +49,18 @@ the necessary details.
 transaction, reflecting the current stock of each laptop.
 
 Objectives:
+
 • Develop a feature that can read and process the data in the text file, ensuring
 that it is displayed accurately in the program.
+
 • Implement a simple and intuitive user interface for customers to place orders and
 for the rental shop to manage inventory.
+
 • Create a feature that automatically updates the stock of each laptop after each
 transaction, ensuring that it is accurate at all times.
+
 • Develop a feature that generates detailed transaction records for each sale and
 order made in text file.
+
 • Ensure that the program is thoroughly tested and debugged to ensure that it is
 reliable and can handle a large volume of transactions and operations.
