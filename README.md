@@ -29,9 +29,9 @@ decision-making. The ease of use of the program will be helpful for the shop's
 employees and will minimize errors. Overall, the program will make it easier for the
 laptop rental shop to manage its business and provide quality service to its customers.
 
-GOALS AND OBJECTIVES
+**GOALS AND OBJECTIVES**
 
-Goals:
+**Goals:**
 
 • To develop a program that will help the laptop rental shop manage its inventory
 and transactions efficiently.
@@ -48,7 +48,7 @@ the necessary details.
 • To enable the program to update the inventory text file automatically after every
 transaction, reflecting the current stock of each laptop.
 
-Objectives:
+**Objectives:**
 
 • Develop a feature that can read and process the data in the text file, ensuring
 that it is displayed accurately in the program.
