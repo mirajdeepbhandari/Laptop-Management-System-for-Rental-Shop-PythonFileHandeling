@@ -67,4 +67,5 @@ order made in text file.
 reliable and can handle a large volume of transactions and operations.
 
 HOW TO DOWNLOAD AND OPEN THE PROJECT----->
-1)EXTRACT THE ZIP FILE
+
+1)DOWNLAOD THE ZIP FILE (22067814 Miraj Deep Bhandari.zip) EXTRACT IT
