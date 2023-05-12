@@ -19,7 +19,7 @@ without shipping costs, shipping cost, and total amount to be paid, including th
 shipping cost. When laptops are ordered from manufacturers, the note or invoice should
 include the name of the distributor, name of the laptop, brand, date and time of
 purchase, net amount, VAT amount, and gross amount.
-2
+
 The program will be a useful tool for the laptop rental shop to manage its inventory and
 keep track of transactions. It will also save time by automatically generating notes or
 invoices for each transaction. The program will enable the shop to have accurate and
@@ -27,3 +27,28 @@ up-to-date information about the inventory, which will be useful for forecasting
 decision-making. The ease of use of the program will be helpful for the shop's
 employees and will minimize errors. Overall, the program will make it easier for the
 laptop rental shop to manage its business and provide quality service to its customers.
+
+GOALS AND OBJECTIVES
+Goals:
+• To develop a program that will help the laptop rental shop manage its inventory
+and transactions efficiently.
+• To enable the program to read a text file containing information about available
+laptops and update it in real-time.
+• To create a user-friendly program that can handle different types of transactions,
+including ordering laptops from manufacturers and selling laptops to customers.
+• To generate notes or invoices automatically for each transaction, containing all
+the necessary details.
+• To enable the program to update the inventory text file automatically after every
+transaction, reflecting the current stock of each laptop.
+
+Objectives:
+• Develop a feature that can read and process the data in the text file, ensuring
+that it is displayed accurately in the program.
+• Implement a simple and intuitive user interface for customers to place orders and
+for the rental shop to manage inventory.
+• Create a feature that automatically updates the stock of each laptop after each
+transaction, ensuring that it is accurate at all times.
+• Develop a feature that generates detailed transaction records for each sale and
+order made in text file.
+• Ensure that the program is thoroughly tested and debugged to ensure that it is
+reliable and can handle a large volume of transactions and operations.
